@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+opencv-python>=4.8
+numpy
+pandas
+scikit-learn>=1.1
+scipy
+matplotlib
